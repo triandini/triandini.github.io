@@ -1,0 +1,4 @@
+body{background-image: url("background.jpeg");}
+h1 {color: white; text-align: center ;font-family:"lucida consolen", lucida, monospace ; font-style: oblique;}
+p {color:  white; font-size:  25px; text-align: center;}
+img{border-radius: 50%}
